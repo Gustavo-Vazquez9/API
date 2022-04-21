@@ -1,5 +1,4 @@
-{
-  "ingredientes": [
+[
     {
       "id": 1,
       "name": "Jitomate",
@@ -848,4 +847,3 @@
       "type":"Pza"
     }
   ]
-}
