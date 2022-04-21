@@ -1,11 +1,7 @@
 {
-  "ingredientes": 
-  [
-    {
-      "id": 15,
-      "name": "Cebollino",
-      "price": "24.90",
-      "weight": ".30"
+  "Usuario" : { 
+    "título" : { 
+      "cadena" : { } 
     }
-  ]
+  }
 }
